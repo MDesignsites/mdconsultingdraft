@@ -3,6 +3,11 @@ body, h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
 }
 
+h3 {
+  font-size: 3rem;
+  font-weight: 1000 !important;
+}
+
 body, html {
   height: 100%;
   line-height: 1.8;
@@ -28,14 +33,14 @@ body, html {
 .bgimg-1 {
   background-position: center;
   background-size: cover;
-  background-image: url("/app/assets/dchero.jpg");
+  background-image: url("https://media.discordapp.net/attachments/730694545007968306/1285289360383807562/Coverphoto.jpg?ex=66ebb4bf&is=66ea633f&hm=77794b823eeadc7e45c87e19f5421db9a44b1cadc0c738beb42181fdc15b7e81&=&format=webp&width=877&height=585");
   min-height: 100%;
 }
 
 .bgimg-2 {
   background-position: center;
   background-size: cover;
-  background-image: url("/app/assets/highrise.jpeg");
+  background-image: url("https://costogenic.com/wp-content/uploads/2024/06/pexels-vicente-vidal-1397490-2697050.jpg");
   min-height: 100%;
 }
 
